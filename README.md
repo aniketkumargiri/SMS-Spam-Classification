@@ -1,2 +1,2 @@
 # SMS-Spam-Classification
-In this project, I have made a spam email classifier.
+In this project, I have made a spam email/sms classifier.
